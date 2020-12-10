@@ -1,0 +1,17 @@
+ul {
+	text-align: center;
+}
+
+.container {
+/*Setting the margin here makes keeps everything close to the left 
+of the window */
+	margin: 10px 20px;
+	padding: 0;
+}
+#header-nav {
+	background-color: red;
+	border-radius: 0;
+	border: 0;
+
+}
+
